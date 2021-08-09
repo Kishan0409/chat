@@ -143,3 +143,11 @@ body {
     bottom: 26px;
     left: 167px;
   }
+
+ @media only screen and (max-width: 900px) {
+    body {
+      
+      display: none;
+
+    }
+  }
