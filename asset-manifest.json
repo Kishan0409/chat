@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chat/static/css/main.9de3b1ca.chunk.css",
+    "main.css": "/chat/static/css/main.b20f6e90.chunk.css",
     "main.js": "/chat/static/js/main.4e332085.chunk.js",
     "main.js.map": "/chat/static/js/main.4e332085.chunk.js.map",
     "runtime-main.js": "/chat/static/js/runtime-main.077c1309.js",
@@ -8,14 +8,14 @@
     "static/js/2.0be6cb80.chunk.js": "/chat/static/js/2.0be6cb80.chunk.js",
     "static/js/2.0be6cb80.chunk.js.map": "/chat/static/js/2.0be6cb80.chunk.js.map",
     "index.html": "/chat/index.html",
-    "static/css/main.9de3b1ca.chunk.css.map": "/chat/static/css/main.9de3b1ca.chunk.css.map",
+    "static/css/main.b20f6e90.chunk.css.map": "/chat/static/css/main.b20f6e90.chunk.css.map",
     "static/js/2.0be6cb80.chunk.js.LICENSE.txt": "/chat/static/js/2.0be6cb80.chunk.js.LICENSE.txt",
     "static/media/video.e8cb461b.mp4": "/chat/static/media/video.e8cb461b.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.077c1309.js",
     "static/js/2.0be6cb80.chunk.js",
-    "static/css/main.9de3b1ca.chunk.css",
+    "static/css/main.b20f6e90.chunk.css",
     "static/js/main.4e332085.chunk.js"
   ]
 }
